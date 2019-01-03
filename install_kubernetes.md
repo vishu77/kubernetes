@@ -7,43 +7,9 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
-  <link rel="dns-prefetch" href="https://github.githubassets.com">
-  <link rel="dns-prefetch" href="https://avatars0.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://avatars1.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://avatars2.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://avatars3.githubusercontent.com">
-  <link rel="dns-prefetch" href="https://github-cloud.s3.amazonaws.com">
-  <link rel="dns-prefetch" href="https://user-images.githubusercontent.com/">
-
-
-
-  <link crossorigin="anonymous" media="all" integrity="sha512-lLo2nlsdl+bHLu6PGvC2j3wfP45RnK4wKQLiPnCDcuXfU38AiD+JCdMywnF3WbJC1jaxe3lAI6AM4uJuMFBLEw==" rel="stylesheet" href="https://github.githubassets.com/assets/frameworks-08fc49d3bd2694c870ea23d0906f3610.css" />
-  <link crossorigin="anonymous" media="all" integrity="sha512-/KSfpHYR4GLLhGOFv9jJbh+O9NFWegLQLVekuNi2RKGFV82L/cX8C8jX0zTSVwT0gtMy/7QNpUp91K3cGNAw7w==" rel="stylesheet" href="https://github.githubassets.com/assets/github-41300a0de22ba7fd11f84e39387c4b20.css" />
-  
-  
-  <link crossorigin="anonymous" media="all" integrity="sha512-ZxaEEWiQJEbxmw5l2qa5RiTSfE+MEeiyeENIUVl7q10lwwbZYkkTn2U4oi9nfHBR2l61Z2jGk6bNhlDWs0hOzQ==" rel="stylesheet" href="https://github.githubassets.com/assets/site-75fa15c3c296527ccae21da9e3bca74f.css" />
-  
-  
-
-  <meta name="viewport" content="width=device-width">
-  
+ 
   <title>ultimate-kubernetes-bootcamp/3_install_kubernetes.md at master · schoolofdevops/ultimate-kubernetes-bootcamp · GitHub</title>
-    <meta name="description" content="Ultimate Kubernetes Bootcamp. Contribute to schoolofdevops/ultimate-kubernetes-bootcamp development by creating an account on GitHub.">
-    <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
-  <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
-  <meta property="fb:app_id" content="1401488693436528">
-
-    
-    <meta property="og:image" content="https://avatars1.githubusercontent.com/u/11702340?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="schoolofdevops/ultimate-kubernetes-bootcamp" /><meta property="og:url" content="https://github.com/schoolofdevops/ultimate-kubernetes-bootcamp" /><meta property="og:description" content="Ultimate Kubernetes Bootcamp. Contribute to schoolofdevops/ultimate-kubernetes-bootcamp development by creating an account on GitHub." />
-
-  <link rel="assets" href="https://github.githubassets.com/">
-  
-  <meta name="pjax-timeout" content="1000">
-  
-  <meta name="request-id" content="A26E:04C7:88ADF2:DBB879:5C2E0EAB" data-pjax-transient>
-
-
+ 
   
 
   <meta name="selected-link" value="repo_source" data-pjax-transient>
